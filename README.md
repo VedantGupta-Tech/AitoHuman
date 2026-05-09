@@ -1,119 +1,127 @@
-# 🚀 Professional GitHub Profile README
+<div align="center">
 
-```md
-<h1 align="center">Hi 👋, I'm Vedant Gupta</h1>
-<h3 align="center">🚀 Passionate Developer | Tech Enthusiast | Future Software Engineer</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Vedant Gupta
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Learning+AI+%26+Machine+Learning;Building+Cool+Projects+Everyday" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+Frontend+Designer;Python+%26+AI+Learner;Open+Source+Enthusiast;Building+Cool+Stuff+🚀" />
 
----
+<br>
 
-## 🌟 About Me
+<img src="https://i.pinimg.com/originals/6e/1d/f6/6e1df6f0f7c8e7b4f8cb9d4b2d8b7d0d.gif" width="700"/>
 
-- 🔭 Currently working on **Web Development & AI Projects**
-- 🌱 Learning **Python, AI, Machine Learning & Cloud**
-- 💡 Love building **creative and useful projects**
-- 🎯 Goal: Become a **Professional Software Engineer**
-- ⚡ Fun fact: I love exploring new technologies 🚀
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 💫 About Me
 
-<p align="left">
-<a href="https://github.com/VedantGupta-Tech" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+✨ Passionate about creating modern & animated websites  
+🚀 Currently learning AI, Python & Full Stack Development  
+🎯 Goal: Become a professional software engineer  
+🔥 Love building cool projects and experimenting with tech  
+⚡ Always exploring new technologies & creative ideas  
+
+<br><br>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/VedantGupta-Tech">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
-<a href="https://linkedin.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+
+<a href="https://instagram.com/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
-<a href="https://instagram.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
+
+<a href="https://linkedin.com/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+# ⚒️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github,vscode,figma" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github,vscode,figma" />
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantGupta-Tech&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGupta-Tech&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantGupta-Tech&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VedantGupta-Tech&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VedantGupta-Tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantGupta-Tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🔥 Streak Stats
 
-### 🌐 Portfolio Website
-> Professional personal portfolio website.
+<div align="center">
 
-### 🤖 AI Based Project
-> Smart AI project using modern technologies.
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VedantGupta-Tech&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-### 🎨 Creative Web Apps
-> Modern UI/UX based responsive applications.
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantGupta-Tech&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantGupta-Tech&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VedantGupta-Tech&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
 # ✨ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VedantGupta-Tech&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-</p>
+<div align="center">
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
-```
+### 🚀 "Code. Create. Innovate."
 
----
+<img src="https://komarev.com/ghpvc/?username=VedantGupta-Tech&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-## 📌 Kaise Use Kare
-
-1. GitHub me ek new repository banao:
-   `VedantGupta-Tech`
-
-2. Repository ko **Public** rakho.
-
-3. `README.md` file create karo.
-
-4. Upar wala pura code copy karke paste karo.
-
-5. Commit changes ✅
-
-Tumhara GitHub profile automatically professional homepage ki tarah dikhne lagega 🚀
+</div>
